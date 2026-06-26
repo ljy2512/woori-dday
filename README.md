@@ -3,6 +3,8 @@
 사랑하는 사람과의 디데이를 한 곳에서.  
 오늘이 며칠째인지, 그날까지 며칠인지.
 
+**🔗 [https://web-pi-peach-0p8bg3cm0g.vercel.app](https://web-pi-peach-0p8bg3cm0g.vercel.app)**
+
 <br/>
 
 ## 소개
@@ -63,7 +65,9 @@ npm run build
 
 ## 배포
 
-정적 파일만 사용하므로 별도 서버 없이 배포 가능해요.
+**🔗 [https://web-pi-peach-0p8bg3cm0g.vercel.app](https://web-pi-peach-0p8bg3cm0g.vercel.app)**
+
+Vercel로 배포되어 있어요. 정적 파일만 사용하므로 별도 서버 없이 어디서든 배포 가능해요.
 
 ```bash
 npm run build
