@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blush: #FCEAE7;
+  --color-mauve-start: #9890B4;
+  --color-mauve-end: #847BA0;
+  --color-coral-start: #F4A09A;
+  --color-coral-end: #EE898C;
+  --color-text-main: #48425E;
+  --color-text-sub: #A89FB6;
+  --font-jua: 'Jua', sans-serif;
+}
+
+@font-face {
+  font-family: 'Jua';
+  src: url('/Jua-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+body {
+  background-color: #FCEAE7;
+  color: #48425E;
+  font-family: 'Jua', 'SF Pro Rounded', system-ui, sans-serif;
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+}
